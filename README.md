@@ -1,11 +1,13 @@
 #Outta My Lane!!!
 
-*PyWeek 22 entry*
+*PyWeek 22 entry by iminurnamez*
 
-Don't spend enough time in traffic already? Topleft Games has you covered.
+Don't spend enough time in traffic already? This game has you covered.
 
 
 ##How to Play
+
+*Requires python and pygame*
 
 Launch run_game.py to play
 
