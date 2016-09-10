@@ -1,0 +1,83 @@
+LICENSES
+
+LICENSES
+
+CC-BY 3.0 http://creativecommons.org/licenses/by/3.0/legalcode
+CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/legalcode
+CC-BY-NC 3.0 http://creativecommons.org/licenses/by-nc/3.0/
+CC-0
+OGA-BY-3.0   http://static.opengameart.org/OGA-BY-3.0.txt
+OFL (SIL Open Font License)
+
+Music
+
+File: DST-RailJet-LongSeamlessLoop
+Source: http://opengameart.org/content/railjet-long-seamless-loop
+Author: Deceased Superior Technician (DST) http://www.nosoapradio.us
+License: CC-BY-3
+
+File: crash1.ogg
+Source: https://freesound.org/people/qubodup/sounds/151624/
+Author: https://freesound.org/people/qubodup/
+License CC0
+
+File: horn1.ogg
+Source: https://freesound.org/people/keweldog/sounds/182474/
+Author: https://freesound.org/people/keweldog/
+License: CC0
+
+File: horn2.ogg
+Source: https://freesound.org/people/BiblicalBricksProductions/sounds/196139/
+Author: https://freesound.org/people/BiblicalBricksProductions/
+License: CC0
+
+File: horn3.ogg
+Source: https://freesound.org/people/genel/sounds/178402/
+Author: https://freesound.org/people/genel/
+License: CC0
+
+File: truck1, truck2, truck3, truck4
+Source: https://freesound.org/people/markuse/sounds/272203/
+Author: https://freesound.org/people/markuse/
+License: CC0
+
+File: ambulance.ogg, firetruck.ogg, police2.ogg
+Source: https://freesound.org/people/dkmedic/sounds/104467/
+Author: https://freesound.org/people/dkmedic/
+License: CC0
+
+File: tires.ogg
+Shortened and converted to .ogg from source
+Source: http://www.freesound.org/people/audible-edge/sounds/71739/
+Author: http://www.freesound.org/people/audible-edge/
+License: CC-BY 3
+
+File: oldhorn.ogg
+Source: http://freesound.org/people/Cameron%20Johnson/sounds/107036/
+Author: http://freesound.org/people/Cameron%20Johnson/
+License: CC0
+
+GRAPHICS
+
+
+Trees, Rocks, Grass, Dirt
+
+Source: http://opengameart.org/content/32x32-and-16x16-rpg-tiles-forest-and-some-interior-tiles
+Author: Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
+License: CC-BY 3
+
+Vehicles
+Author: Topleft Games
+License: CC0
+
+
+
+FONTS
+
+Weblysleek
+Source: http://www.dafont.com/weblysleek-ui.font?l[]=10
+License: OFL
+
+OstricSans Heavy
+Source: http://www.dafont.com/ostrich-sans-heavy.font?l[]=10
+License: OFL
