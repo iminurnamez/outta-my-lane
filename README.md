@@ -40,7 +40,7 @@ Horn - Press/hold SPACE depending on vehicle (has no effect on game)
 
 Keys can be reassigned from controls screen
 
-##LICENSING
+###LICENSING
 
 See attribution.txt for asset licenses.
 
